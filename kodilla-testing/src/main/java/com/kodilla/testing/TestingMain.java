@@ -14,7 +14,6 @@ public class TestingMain {
         } else {
             System.out.println("Error!");
         }
-
         Calculator calculator = new Calculator(20, 10);
 
         int add = calculator.addAtoB();
